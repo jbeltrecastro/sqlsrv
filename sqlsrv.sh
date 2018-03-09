@@ -61,3 +61,5 @@ echo "Usted ha cancelado la Instalacion de SQLSRV para Linux"
 sleep 5
 exit
 fi
+
+#Desarrolado por Jose Beltre & Maher Sanchez
